@@ -1,2 +1,2 @@
-hiii 
-sush=panni kuty,donkey
+hiii
+
