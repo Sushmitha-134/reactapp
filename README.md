@@ -1,2 +1,2 @@
 hiii 
-sush=panni kuty
+sush=panni kuty,donkey
